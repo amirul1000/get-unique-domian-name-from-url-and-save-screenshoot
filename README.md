@@ -1,11 +1,11 @@
 "# get-unique-domian-name-from-url-and-save-screenshoot" 
 
 
-Get unique domian name from url and save screenshoot
+Get unique domain name from URL and save screenshot
 ======================================================
 
 
-Youtube Tutorial : 
+Youtube Tutorial : https://youtu.be/GAQ_IDYfQOw
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
